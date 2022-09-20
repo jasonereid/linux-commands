@@ -20,6 +20,10 @@ sudo - run command as root user
 - echo - writes text specified in quotes, can write it to a file using a carrot - example: 
 
         echo "this is a text line." > your_filename.txt
+        
+- cat - prints contents of file
+- head - prints first ten lines of file
+- tail - prints last ten lines of file 
 
 ## Dealing with programs and services
 
