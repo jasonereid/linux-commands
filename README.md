@@ -19,7 +19,7 @@ sudo - run command as root user
 - chmod - changes file permissions
 - echo - writes text specified in quotes, can write it to a file using a carrot - example: 
 
-    echo "this is a text line." > your_filename.txt
+        echo "this is a text line." > your_filename.txt
 
 ## Dealing with programs
 
