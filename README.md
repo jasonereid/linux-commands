@@ -21,7 +21,8 @@ sudo - run command as root user
 
         echo "this is a text line." > your_filename.txt
 
-## Dealing with programs
+## Dealing with programs and services
 
+- ps - shows currently running processes
 - apt-get install - downloads and installs the specified program. Depending on your version of Linux this might be apt install
 - apt-get update - update specified program
