@@ -16,6 +16,7 @@ sudo - run command as root user
 - cd .. - move up one directory
 - mkdir - makes a new directory
 - rmdir - removes a directory
+- rmdir -r - removes a non-empty directory by removing everything below it
 - mv - moves a directory
 - chmod - changes file permissions
 - echo - writes text specified in quotes, can write it to a file using a carrot - example: 
