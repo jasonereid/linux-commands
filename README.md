@@ -40,3 +40,8 @@ sudo - run command as root user
 - ps - shows currently running processes
 - apt-get install - downloads and installs the specified program. Depending on your version of Linux this might be apt install
 - apt-get update - update specified program
+
+## Shell changes
+
+echo $SHELL - displays current shell
+chsh - changes the shell to whatever you specify
