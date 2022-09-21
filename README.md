@@ -14,7 +14,11 @@ sudo - run command as root user
 - ls -lh - formats the list in an easier-to-read format
 - cd - change directory
 - cd .. - move up one directory
-- mkdir - makes a new directory
+- pwd - print working directory
+- mkdir - makes a new directory, -p allows you to create parent and child directory 
+
+        mkdir -p asia/china
+
 - rmdir - removes a directory
 - rmdir -r - removes a non-empty directory by removing everything below it
 - mv - moves a directory
