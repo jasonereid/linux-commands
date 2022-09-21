@@ -26,6 +26,7 @@ sudo - run command as root user
         mv asia/china countries/china
 
 - chmod - changes file permissions
+- touch - creates a new file
 - echo - writes text specified in quotes, can write it to a file using a carrot - example: 
 
         echo "this is a text line." > your_filename.txt
