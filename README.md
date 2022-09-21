@@ -43,5 +43,5 @@ sudo - run command as root user
 
 ## Shell changes
 
-echo $SHELL - displays current shell
-chsh - changes the shell to whatever you specify
+- echo $SHELL - displays current shell
+- chsh - changes the shell to whatever you specify
