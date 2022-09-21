@@ -21,7 +21,10 @@ sudo - run command as root user
 
 - rmdir - removes a directory
 - rmdir -r - removes a non-empty directory by removing everything below it
-- mv - moves a directory
+- mv - moves a directory, first arg is original location, second arg is new location
+
+        mv asia/china countries/china
+
 - chmod - changes file permissions
 - echo - writes text specified in quotes, can write it to a file using a carrot - example: 
 
