@@ -51,7 +51,7 @@ sudo - run command as root user
 - uname -r - checks kernel version
 - dmesg - displays kernel messages
 - lsblk - view blocks on disk
-- init <OPTIONS> <COMMAND> - sends control commands to the init daemon
+- init <OPTIONS> <COMMAND> - sends control commands to the init daemon - run init --help to see run levels (see below)
   
         Commands:
         0              Power-off the machine
