@@ -51,5 +51,13 @@ sudo - run command as root user
 - uname -r - checks kernel version
 - dmesg - displays kernel messages
 - lsblk - view blocks on disk
-
+- init <OPTIONS> <COMMAND> - sends control commands to the init daemon
+  
+        Commands:
+        0              Power-off the machine
+        6              Reboot the machine
+        2, 3, 4, 5     Start runlevelX.target unit
+        1, s, S        Enter rescue mode
+        q, Q           Reload init daemon configuration
+        u, U           Reexecute init daemon
 
