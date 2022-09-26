@@ -45,3 +45,11 @@ sudo - run command as root user
 
 - echo $SHELL - displays current shell
 - chsh - changes the shell to whatever you specify
+
+## Host machine
+
+- uname -r - checks kernel version
+- dmesg - displays kernel messages
+- lsblk - view blocks on disk
+
+
