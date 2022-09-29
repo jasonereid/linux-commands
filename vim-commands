@@ -1,0 +1,23 @@
+## Basic text editing
+
+vim your-file-name.txt - edits a file in VIM
+
+Once VIM opens, you will be in command mode, not edit mode. To turn on edit mode (and type text), hit the "i" key. You will see --INSERT-- and then you will be able to type and edit the document like any other word processor.
+You can also paste in copied text.
+
+Hit the Escape key when you are done editing to go back to command mode.
+
+## File saving
+
+:x - save and exit the file. 
+:wq - save and exit the file. 
+:w - save file without exiting
+:q! - exit without saving
+
+## Navigation
+
+: (a number) - moves the to whatever line number you specify. Example: ":13" takes you to line 13
+:0 - moves to beginning of file
+:$ - moves to end
+b - move to previous word
+w - move to next word
